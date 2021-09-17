@@ -1,0 +1,1 @@
+# Este es el archivo readme para la configuaracions
